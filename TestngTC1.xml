@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="InetBankingV1">
+
+	<listeners>
+		<listener class-name="com.inetbanking.utilities.Reporting" />
+	</listeners>
+
+  <test name="Test">
+  <parameter name="browser" value="chrome"/>
+    <classes>
+    <class name="com.inetbanking.testCases.TC_LoginTest_001N"/>
+    <class name="com.inetbanking.testCases.TC_LoginDDT_002"/>
+       <class name="com.inetbanking.testCases.TC_AddCustomeeTest_003"/>
+       
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

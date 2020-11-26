@@ -1,0 +1,85 @@
+2020-11-22 12:40:41,280 [main] INFO ebanking - Url is opened
+2020-11-22 12:40:49,122 [main] INFO ebanking - We are in Home Page
+2020-11-22 14:31:38,538 [main] INFO ebanking - Url is opened
+2020-11-22 14:36:34,039 [main] INFO ebanking - Url is opened
+2020-11-22 14:40:37,168 [main] INFO ebanking - Url is opened
+2020-11-22 14:45:16,229 [main] INFO ebanking - Url is opened
+2020-11-22 14:50:56,956 [main] INFO ebanking - Url is opened
+2020-11-22 14:50:58,511 [main] INFO ebanking - Url is opened
+2020-11-22 14:52:01,557 [main] INFO ebanking - Url is opened
+2020-11-22 14:58:08,509 [main] INFO ebanking - Url is opened
+2020-11-22 15:00:16,555 [main] INFO ebanking - Url is opened
+2020-11-22 15:00:27,748 [main] INFO ebanking - We are in Home Page
+2020-11-22 15:46:47,865 [main] INFO ebanking - Url is opened
+2020-11-22 15:48:31,093 [main] INFO ebanking - Url is opened
+2020-11-22 15:48:36,155 [main] INFO ebanking - We are in Home Page
+2020-11-22 15:55:49,435 [main] INFO ebanking - Url is opened
+2020-11-22 15:57:28,419 [main] INFO ebanking - Url is opened
+2020-11-22 15:57:30,179 [main] INFO ebanking - We are in Home Page
+2020-11-22 15:58:17,055 [main] INFO ebanking - Url is opened
+2020-11-22 16:02:24,969 [main] INFO ebanking - Url is opened
+2020-11-22 16:02:34,451 [main] INFO ebanking - We are in Home Page
+2020-11-22 16:09:29,048 [main] INFO ebanking - Url is opened
+2020-11-22 17:25:31,275 [main] INFO ebanking - Url is opened
+2020-11-22 17:25:43,346 [main] INFO ebanking - We are in Home Page
+2020-11-22 18:58:25,398 [main] INFO ebanking - Url is opened
+2020-11-23 10:49:39,632 [main] INFO ebanking - Login Sucessfull
+2020-11-23 10:49:55,881 [main] INFO ebanking - Login Sucessfull
+2020-11-23 10:58:10,932 [main] INFO ebanking - Login Sucessfull
+2020-11-23 10:58:21,874 [main] INFO ebanking - Login Sucessfull
+2020-11-23 10:58:27,653 [main] INFO ebanking - Login Sucessfull
+2020-11-23 10:58:33,748 [main] INFO ebanking - Login Sucessfull
+2020-11-23 10:58:41,698 [main] INFO ebanking - Login Sucessfull
+2020-11-23 11:33:46,306 [main] INFO ebanking - Login Sucessfull
+2020-11-23 11:35:30,584 [main] INFO ebanking - Login Sucessfull
+2020-11-23 11:35:46,515 [main] INFO ebanking - Login Sucessfull
+2020-11-23 11:35:52,489 [main] INFO ebanking - Login Sucessfull
+2020-11-23 11:35:58,655 [main] INFO ebanking - Login Sucessfull
+2020-11-23 11:36:09,569 [main] INFO ebanking - Login Sucessfull
+2020-11-23 11:46:52,291 [main] INFO ebanking - Login Sucessfull
+2020-11-23 11:47:05,472 [main] INFO ebanking - Login Sucessfull
+2020-11-23 11:47:11,005 [main] INFO ebanking - Login Sucessfull
+2020-11-23 11:47:16,624 [main] INFO ebanking - Login Sucessfull
+2020-11-23 11:47:29,873 [main] INFO ebanking - Login Sucessfull
+2020-11-24 10:09:36,042 [main] INFO ebanking - Login Sucessfull
+2020-11-24 10:09:52,073 [main] INFO ebanking - Login Sucessfull
+2020-11-24 10:10:12,220 [main] INFO ebanking - Login Sucessfull
+2020-11-24 10:10:23,894 [main] INFO ebanking - Login Sucessfull
+2020-11-24 10:10:30,940 [main] INFO ebanking - Login Sucessfull
+2020-11-24 10:52:56,904 [main] INFO ebanking - User name is provided
+2020-11-24 10:53:01,758 [main] INFO ebanking - Passsword is provided
+2020-11-24 11:05:53,157 [main] INFO ebanking - User name is provided
+2020-11-24 11:05:53,646 [main] INFO ebanking - Passsword is provided
+2020-11-24 11:07:23,248 [main] INFO ebanking - User name is provided
+2020-11-24 11:07:23,587 [main] INFO ebanking - Passsword is provided
+2020-11-24 11:14:07,266 [main] INFO ebanking - User name is provided
+2020-11-24 11:14:07,478 [main] INFO ebanking - Passsword is provided
+2020-11-24 11:16:14,555 [main] INFO ebanking - User name is provided
+2020-11-24 11:16:15,371 [main] INFO ebanking - Passsword is provided
+2020-11-24 11:16:21,699 [main] INFO ebanking - providing customer details....
+2020-11-24 11:21:43,428 [main] INFO ebanking - User name is provided
+2020-11-24 11:21:44,028 [main] INFO ebanking - Passsword is provided
+2020-11-24 11:22:08,381 [main] INFO ebanking - providing customer details....
+2020-11-24 16:54:29,903 [main] INFO ebanking - User name is provided
+2020-11-24 16:54:30,199 [main] INFO ebanking - Passsword is provided
+2020-11-24 16:54:36,630 [main] INFO ebanking - providing customer details....
+2020-11-25 13:34:06,241 [main] INFO ebanking - Login Sucessfull
+2020-11-25 13:34:20,517 [main] INFO ebanking - Login Sucessfull
+2020-11-25 13:34:25,575 [main] INFO ebanking - Login Sucessfull
+2020-11-25 13:34:35,004 [main] INFO ebanking - Login Sucessfull
+2020-11-25 13:34:41,514 [main] INFO ebanking - Login Sucessfull
+2020-11-25 13:39:34,823 [main] INFO ebanking - User name is provided
+2020-11-25 13:39:35,696 [main] INFO ebanking - Passsword is provided
+2020-11-25 13:39:44,262 [main] INFO ebanking - providing customer details....
+2020-11-26 10:10:51,578 [main] INFO ebanking - User name is provided
+2020-11-26 10:10:56,091 [main] INFO ebanking - Passsword is provided
+2020-11-26 10:11:12,393 [main] INFO ebanking - providing customer details....
+2020-11-26 10:17:01,770 [main] INFO ebanking - Url is opened
+2020-11-26 10:18:34,690 [main] INFO ebanking - Login Sucessfull
+2020-11-26 10:19:40,797 [main] INFO ebanking - Login Sucessfull
+2020-11-26 10:19:48,706 [main] INFO ebanking - Login Sucessfull
+2020-11-26 10:20:02,305 [main] INFO ebanking - Login Sucessfull
+2020-11-26 10:20:15,878 [main] INFO ebanking - Login Sucessfull
+2020-11-26 10:21:14,164 [main] INFO ebanking - User name is provided
+2020-11-26 10:21:14,390 [main] INFO ebanking - Passsword is provided
+2020-11-26 10:21:20,438 [main] INFO ebanking - providing customer details....
